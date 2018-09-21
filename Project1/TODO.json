@@ -1,0 +1,172 @@
+{
+    "Lab Section": integer - Lab section  13,
+    "Last Modified": string - Date Last Modified 2018-09-11
+    "OU ID": integer - 113420589,
+    "OU EMAIL": string - feras.m.salous-1@ou.edu,
+    "Tasks": [
+        {
+            "Description": "Declare MapData Variables",
+            "Estimated Time (Minutes)": 5
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "Create MapData Constructor",
+            "Estimated Time (Minutes)": 5
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "Create MapData Getters",
+            "Estimated Time (Minutes)": 2
+            "Actual Time (Minutes)": 2
+            
+        },
+        {
+        		"Description": "Create MapData toString",
+            "Estimated Time (Minutes)" : 10
+            "Actual Time(Minutes)": 
+        		
+        },
+        {
+        		"Description": "Create MapData createFileName ",
+            "Estimated Time (Minutes)": 15
+            "Actual Time(Minutes)":  20
+        		
+        },
+        {
+        		"Description": "Create MapData parseFile",
+            "Estimated Time (Minutes)": 10
+            "Actual Time(Minutes)":   35
+        		
+        },
+        {
+        		"Description": "Create Observation Constructor",
+            "Estimated Time (Minutes)": 5
+            "Actual Time(Minutes)": 5 
+        		
+        },
+        {
+        		"Description": "Declare Observation Variables",
+            "Estimated Time (Minutes)": 10
+            "Actual Time(Minutes)": 10
+        		
+        },
+        {
+        		"Description": "Create Observation Getters",
+            "Estimated Time (Minutes)": 2
+            "Actual Time(Minutes)":  2
+        		
+        },
+        {
+        		"Description": "Create Observation toString",
+            "Estimated Time (Minutes)": 10
+            "Actual Time(Minutes)":  20
+        		
+        },
+        {
+        		"Description": "Generate JUnit4 Tests testGetYearValue"
+        		"Estimated Time (Minutes)" : 10
+        		"Actual Time (Minutes)": 5
+        		
+        	},
+        	{
+        		"Description" : "Generate JUnit4 Tests for testMonthValue"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)": 5
+        	},
+        	{
+        		"Description" : "Generate JUnit4 Tests for testDayValue "
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)":5
+        	},
+        	{
+        		"Description" : "Generate JUnit4 Tests for getHourValue"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)": 5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getMinuteValue "
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)":5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getDirectoryString "
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)":5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for createFileName"
+        		"Estimated Time (Minutes)": 15
+        		"Actual Time(Minutes)": 15
+        	},{
+        		"Description" : "Generate JUnit4 Tests for parseFile "
+        		"Estimated Time (Minutes)": 20
+        		"Actual Time(Minutes)": 20
+        	},
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getSradAverage"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)": 5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getSradMax"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)":5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getSradMin"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)":5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getNumberOfObservations"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)":5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getSradTotal"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)": 5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getTa9mAverage"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)": 5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getTa9mMin"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)": 5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getTa9mMax"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)":5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getTairAverage "
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)": 5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getTairMax"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)": 5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getTairMIn"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)": 5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for getToString "
+        		"Estimated Time (Minutes)": 20
+        		"Actual Time(Minutes)": 20
+        	},{
+        		"Description" : "Generate JUnit4 Tests for testGetValue "
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)": 5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for testGetStid"
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)":5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for testIsValid "
+        		"Estimated Time (Minutes)": 10
+        		"Actual Time(Minutes)":5
+        	},{
+        		"Description" : "Generate JUnit4 Tests for testGetToString"
+        		"Estimated Time (Minutes)": 20
+        		"Actual Time(Minutes)": 20
+        	},
+        
+        
+        
+      
+    ]
+}
